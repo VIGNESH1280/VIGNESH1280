@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm C.Vignesh</h1>
-<h3 align="center">ECE Graduate | Learning MERN Stack | Passionate About IoT & Embedded Systems</h3>
+<h3 align="center">ECE Graduate | Learning MERN Stack | Passionate About Web Development & IOT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh1280&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh1280" /> </p>
+
 
 - 🌱 I’m currently learning **MERN Stack Development at AccioJob**
 
