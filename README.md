@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://app.luminpdf.com/viewer/66dbef3faa9344a510aae3c9](https://app.luminpdf.com/viewer/66dbef3faa9344a510aae3c9)
 
-- ⚡ Fun fact **Coding enthusiast 🧑‍💻👨‍💻**
+- ⚡ Fun fact **ECE to Techie 🧑‍💻👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
