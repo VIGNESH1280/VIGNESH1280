@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm C.Vignesh</h1>
-<h3 align="center">ECE Graduate | Learning MERN Stack | Passionate About Web Development</h3>
+<h3 align="center">ECE Graduate | Learning MERN Stack | Passionate About Web Development & IOT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh1280&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh1280" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vigniv2001@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/66dbef3faa9344a510aae3c9](https://app.luminpdf.com/viewer/66dbef3faa9344a510aae3c9)
+- 📄 Know about my experiences [https://app.luminpdf.com/viewer/67a43a62db682d2ad956bde0](https://app.luminpdf.com/viewer/67a43a62db682d2ad956bde0)
 
 - ⚡ Fun fact **Coding enthusiast 🧑‍💻👨‍💻**
 
