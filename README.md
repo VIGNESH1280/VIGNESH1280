@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vigniv2001@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/67aad1f8ef30d80be0956eb4](https://app.luminpdf.com/viewer/67aad1f8ef30d80be0956eb4)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sRT1vu9jQmXzuaWLqjfdggWDLFp7JGvH/view?usp=sharing](https://drive.google.com/file/d/1sRT1vu9jQmXzuaWLqjfdggWDLFp7JGvH/view?usp=sharing)
 
 - ⚡ Fun fact **Coding enthusiast 🧑‍💻👨‍💻**
 
