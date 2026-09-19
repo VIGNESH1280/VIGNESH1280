@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm C.Vignesh</h1>
+<h1 align="center">Hi 👋, I'm Vignesh C</h1>
 <h3 align="center">M.E. CSE (Networks) | Full-Stack Developer | MERN Stack | Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh1280&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh1280" /> </p>
